@@ -1,0 +1,6 @@
+to use: Clone into a directory. Run the following command: 
+python report.py -t=GroupInfo.csv -p=prodLog.csv -s=PointOfSaleLog.csv --team-report=TeamReport.csv --product-report=ProductReport.csv
+
+The outputted files will contain information such as:
+-team and their gross revenue
+-Revenue by part, as well as number sold, etc
